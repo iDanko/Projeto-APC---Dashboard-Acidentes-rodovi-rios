@@ -1,0 +1,407 @@
+dias_Semana,quantidade,causas
+segunda,235,Animais na Pista
+segunda,250,Falta de Atenção do Pedestre
+segunda,455,Ingestão de Álcool
+segunda,780,Velocidade Incompatível
+segunda,3106,Falta de Atenção à Condução
+segunda,1194,Desobediência às normas de trânsito pelo condutor
+segunda,264,Condutor Dormindo
+segunda,290,Pista Escorregadia
+segunda,88,Mal Súbito
+segunda,126,Avarias e/ou desgaste excessivo no pneu
+segunda,538,Não guardar distância de segurança
+segunda,28,Deficiência ou não Acionamento do Sistema de Iluminação/Sinalização do Veículo
+segunda,29,Ingestão de álcool e/ou substâncias psicoativas pelo pedestre
+segunda,507,Defeito Mecânico no Veículo
+segunda,125,Ultrapassagem Indevida
+segunda,138,Defeito na Via
+segunda,5,Ingestão de Substâncias Psicoativas
+segunda,39,Sinalização da via insuficiente ou inadequada
+segunda,57,Objeto estático sobre o leito carroçável
+segunda,45,Agressão Externa
+segunda,24,Fenômenos da Natureza
+segunda,60,Restrição de Visibilidade
+segunda,58,Desobediência às normas de trânsito pelo pedestre
+segunda,57,Carga excessiva e/ou mal acondicionada
+segunda,1,Ausência de reação do condutor
+segunda,0,Falta de acostamento
+segunda,0,Manobra de mudança de faixa
+segunda,1,Pedestre andava na pista
+segunda,0,Ingestão de álcool ou de substâncias psicoativas pelo pedestre
+segunda,0,Desrespeitar a preferência no cruzamento
+segunda,3,Reação tardia ou ineficiente do condutor
+segunda,1,Transitar na contramão
+segunda,0,Mal súbito do condutor
+segunda,1,Ingestão de álcool pelo condutor
+segunda,0,Acumulo de água sobre o pavimento
+segunda,0,Conversão proibida
+segunda,2,Condutor deixou de manter distância do veículo da frente
+segunda,1,Acessar a via sem observar a presença dos outros veículos
+segunda,0,Entrada inopinada do pedestre
+segunda,0,Acumulo de óleo sobre o pavimento
+segunda,1,Ausência de sinalização
+segunda,0,Transitar no acostamento
+segunda,1,Trafegar com motocicleta (ou similar) entre as faixas
+segunda,1,Demais falhas mecânicas ou elétricas
+segunda,0,Condutor desrespeitou a iluminação vermelha do semáforo
+segunda,0,Demais falhas na via
+segunda,0,Pedestre cruzava a pista fora da faixa
+segunda,2,Chuva
+segunda,0,Frear bruscamente
+segunda,0,Condutor usando celular
+segunda,0,Acostamento em desnível
+segunda,2,Afundamento ou ondulação no pavimento
+segunda,0,Fumaça
+segunda,0,Estacionar ou parar em local proibido
+segunda,1,Pista esburacada
+segunda,1,Iluminação deficiente
+segunda,0,Acumulo de areia ou detritos sobre o pavimento
+segunda,1,Acesso irregular
+terça,155,Animais na Pista
+terça,196,Falta de Atenção do Pedestre
+terça,332,Ingestão de Álcool
+terça,656,Velocidade Incompatível
+terça,2846,Falta de Atenção à Condução
+terça,1161,Desobediência às normas de trânsito pelo condutor
+terça,261,Condutor Dormindo
+terça,252,Pista Escorregadia
+terça,104,Mal Súbito
+terça,125,Avarias e/ou desgaste excessivo no pneu
+terça,500,Não guardar distância de segurança
+terça,22,Deficiência ou não Acionamento do Sistema de Iluminação/Sinalização do Veículo
+terça,36,Ingestão de álcool e/ou substâncias psicoativas pelo pedestre
+terça,498,Defeito Mecânico no Veículo
+terça,134,Ultrapassagem Indevida
+terça,127,Defeito na Via
+terça,7,Ingestão de Substâncias Psicoativas
+terça,22,Sinalização da via insuficiente ou inadequada
+terça,63,Objeto estático sobre o leito carroçável
+terça,51,Agressão Externa
+terça,44,Fenômenos da Natureza
+terça,58,Restrição de Visibilidade
+terça,49,Desobediência às normas de trânsito pelo pedestre
+terça,62,Carga excessiva e/ou mal acondicionada
+terça,3,Ausência de reação do condutor
+terça,0,Falta de acostamento
+terça,4,Manobra de mudança de faixa
+terça,0,Pedestre andava na pista
+terça,0,Ingestão de álcool ou de substâncias psicoativas pelo pedestre
+terça,1,Desrespeitar a preferência no cruzamento
+terça,3,Reação tardia ou ineficiente do condutor
+terça,2,Transitar na contramão
+terça,0,Mal súbito do condutor
+terça,0,Ingestão de álcool pelo condutor
+terça,0,Acumulo de água sobre o pavimento
+terça,0,Conversão proibida
+terça,0,Condutor deixou de manter distância do veículo da frente
+terça,1,Acessar a via sem observar a presença dos outros veículos
+terça,0,Entrada inopinada do pedestre
+terça,0,Acumulo de óleo sobre o pavimento
+terça,0,Ausência de sinalização
+terça,0,Transitar no acostamento
+terça,1,Trafegar com motocicleta (ou similar) entre as faixas
+terça,0,Demais falhas mecânicas ou elétricas
+terça,0,Condutor desrespeitou a iluminação vermelha do semáforo
+terça,1,Demais falhas na via
+terça,0,Pedestre cruzava a pista fora da faixa
+terça,0,Chuva
+terça,0,Frear bruscamente
+terça,0,Condutor usando celular
+terça,0,Acostamento em desnível
+terça,0,Afundamento ou ondulação no pavimento
+terça,0,Fumaça
+terça,0,Estacionar ou parar em local proibido
+terça,0,Pista esburacada
+terça,0,Iluminação deficiente
+terça,0,Acumulo de areia ou detritos sobre o pavimento
+terça,0,Acesso irregular
+quarta,191,Animais na Pista
+quarta,208,Falta de Atenção do Pedestre
+quarta,396,Ingestão de Álcool
+quarta,666,Velocidade Incompatível
+quarta,3018,Falta de Atenção à Condução
+quarta,1074,Desobediência às normas de trânsito pelo condutor
+quarta,274,Condutor Dormindo
+quarta,284,Pista Escorregadia
+quarta,79,Mal Súbito
+quarta,136,Avarias e/ou desgaste excessivo no pneu
+quarta,534,Não guardar distância de segurança
+quarta,30,Deficiência ou não Acionamento do Sistema de Iluminação/Sinalização do Veículo
+quarta,33,Ingestão de álcool e/ou substâncias psicoativas pelo pedestre
+quarta,554,Defeito Mecânico no Veículo
+quarta,133,Ultrapassagem Indevida
+quarta,133,Defeito na Via
+quarta,13,Ingestão de Substâncias Psicoativas
+quarta,30,Sinalização da via insuficiente ou inadequada
+quarta,67,Objeto estático sobre o leito carroçável
+quarta,47,Agressão Externa
+quarta,32,Fenômenos da Natureza
+quarta,87,Restrição de Visibilidade
+quarta,47,Desobediência às normas de trânsito pelo pedestre
+quarta,55,Carga excessiva e/ou mal acondicionada
+quarta,3,Ausência de reação do condutor
+quarta,0,Falta de acostamento
+quarta,2,Manobra de mudança de faixa
+quarta,0,Pedestre andava na pista
+quarta,1,Ingestão de álcool ou de substâncias psicoativas pelo pedestre
+quarta,3,Desrespeitar a preferência no cruzamento
+quarta,2,Reação tardia ou ineficiente do condutor
+quarta,2,Transitar na contramão
+quarta,1,Mal súbito do condutor
+quarta,1,Ingestão de álcool pelo condutor
+quarta,0,Acumulo de água sobre o pavimento
+quarta,1,Conversão proibida
+quarta,5,Condutor deixou de manter distância do veículo da frente
+quarta,3,Acessar a via sem observar a presença dos outros veículos
+quarta,1,Entrada inopinada do pedestre
+quarta,1,Acumulo de óleo sobre o pavimento
+quarta,0,Ausência de sinalização
+quarta,1,Transitar no acostamento
+quarta,1,Trafegar com motocicleta (ou similar) entre as faixas
+quarta,1,Demais falhas mecânicas ou elétricas
+quarta,0,Condutor desrespeitou a iluminação vermelha do semáforo
+quarta,0,Demais falhas na via
+quarta,0,Pedestre cruzava a pista fora da faixa
+quarta,2,Chuva
+quarta,0,Frear bruscamente
+quarta,0,Condutor usando celular
+quarta,0,Acostamento em desnível
+quarta,0,Afundamento ou ondulação no pavimento
+quarta,0,Fumaça
+quarta,0,Estacionar ou parar em local proibido
+quarta,0,Pista esburacada
+quarta,0,Iluminação deficiente
+quarta,0,Acumulo de areia ou detritos sobre o pavimento
+quarta,0,Acesso irregular
+quinta,193,Animais na Pista
+quinta,229,Falta de Atenção do Pedestre
+quinta,373,Ingestão de Álcool
+quinta,746,Velocidade Incompatível
+quinta,2933,Falta de Atenção à Condução
+quinta,1179,Desobediência às normas de trânsito pelo condutor
+quinta,284,Condutor Dormindo
+quinta,314,Pista Escorregadia
+quinta,60,Mal Súbito
+quinta,110,Avarias e/ou desgaste excessivo no pneu
+quinta,519,Não guardar distância de segurança
+quinta,21,Deficiência ou não Acionamento do Sistema de Iluminação/Sinalização do Veículo
+quinta,34,Ingestão de álcool e/ou substâncias psicoativas pelo pedestre
+quinta,566,Defeito Mecânico no Veículo
+quinta,143,Ultrapassagem Indevida
+quinta,128,Defeito na Via
+quinta,5,Ingestão de Substâncias Psicoativas
+quinta,35,Sinalização da via insuficiente ou inadequada
+quinta,72,Objeto estático sobre o leito carroçável
+quinta,41,Agressão Externa
+quinta,29,Fenômenos da Natureza
+quinta,66,Restrição de Visibilidade
+quinta,49,Desobediência às normas de trânsito pelo pedestre
+quinta,54,Carga excessiva e/ou mal acondicionada
+quinta,6,Ausência de reação do condutor
+quinta,2,Falta de acostamento
+quinta,5,Manobra de mudança de faixa
+quinta,2,Pedestre andava na pista
+quinta,0,Ingestão de álcool ou de substâncias psicoativas pelo pedestre
+quinta,2,Desrespeitar a preferência no cruzamento
+quinta,5,Reação tardia ou ineficiente do condutor
+quinta,6,Transitar na contramão
+quinta,0,Mal súbito do condutor
+quinta,5,Ingestão de álcool pelo condutor
+quinta,0,Acumulo de água sobre o pavimento
+quinta,2,Conversão proibida
+quinta,3,Condutor deixou de manter distância do veículo da frente
+quinta,6,Acessar a via sem observar a presença dos outros veículos
+quinta,0,Entrada inopinada do pedestre
+quinta,0,Acumulo de óleo sobre o pavimento
+quinta,0,Ausência de sinalização
+quinta,0,Transitar no acostamento
+quinta,1,Trafegar com motocicleta (ou similar) entre as faixas
+quinta,5,Demais falhas mecânicas ou elétricas
+quinta,4,Condutor desrespeitou a iluminação vermelha do semáforo
+quinta,1,Demais falhas na via
+quinta,1,Pedestre cruzava a pista fora da faixa
+quinta,1,Chuva
+quinta,0,Frear bruscamente
+quinta,0,Condutor usando celular
+quinta,1,Acostamento em desnível
+quinta,0,Afundamento ou ondulação no pavimento
+quinta,0,Fumaça
+quinta,0,Estacionar ou parar em local proibido
+quinta,0,Pista esburacada
+quinta,0,Iluminação deficiente
+quinta,0,Acumulo de areia ou detritos sobre o pavimento
+quinta,0,Acesso irregular
+sexta,237,Animais na Pista
+sexta,256,Falta de Atenção do Pedestre
+sexta,601,Ingestão de Álcool
+sexta,852,Velocidade Incompatível
+sexta,3543,Falta de Atenção à Condução
+sexta,1450,Desobediência às normas de trânsito pelo condutor
+sexta,299,Condutor Dormindo
+sexta,308,Pista Escorregadia
+sexta,87,Mal Súbito
+sexta,134,Avarias e/ou desgaste excessivo no pneu
+sexta,648,Não guardar distância de segurança
+sexta,23,Deficiência ou não Acionamento do Sistema de Iluminação/Sinalização do Veículo
+sexta,55,Ingestão de álcool e/ou substâncias psicoativas pelo pedestre
+sexta,560,Defeito Mecânico no Veículo
+sexta,172,Ultrapassagem Indevida
+sexta,137,Defeito na Via
+sexta,11,Ingestão de Substâncias Psicoativas
+sexta,41,Sinalização da via insuficiente ou inadequada
+sexta,71,Objeto estático sobre o leito carroçável
+sexta,46,Agressão Externa
+sexta,33,Fenômenos da Natureza
+sexta,61,Restrição de Visibilidade
+sexta,61,Desobediência às normas de trânsito pelo pedestre
+sexta,56,Carga excessiva e/ou mal acondicionada
+sexta,2,Ausência de reação do condutor
+sexta,0,Falta de acostamento
+sexta,2,Manobra de mudança de faixa
+sexta,0,Pedestre andava na pista
+sexta,0,Ingestão de álcool ou de substâncias psicoativas pelo pedestre
+sexta,0,Desrespeitar a preferência no cruzamento
+sexta,6,Reação tardia ou ineficiente do condutor
+sexta,2,Transitar na contramão
+sexta,0,Mal súbito do condutor
+sexta,0,Ingestão de álcool pelo condutor
+sexta,2,Acumulo de água sobre o pavimento
+sexta,0,Conversão proibida
+sexta,2,Condutor deixou de manter distância do veículo da frente
+sexta,0,Acessar a via sem observar a presença dos outros veículos
+sexta,0,Entrada inopinada do pedestre
+sexta,0,Acumulo de óleo sobre o pavimento
+sexta,0,Ausência de sinalização
+sexta,0,Transitar no acostamento
+sexta,0,Trafegar com motocicleta (ou similar) entre as faixas
+sexta,2,Demais falhas mecânicas ou elétricas
+sexta,0,Condutor desrespeitou a iluminação vermelha do semáforo
+sexta,0,Demais falhas na via
+sexta,0,Pedestre cruzava a pista fora da faixa
+sexta,1,Chuva
+sexta,0,Frear bruscamente
+sexta,0,Condutor usando celular
+sexta,0,Acostamento em desnível
+sexta,0,Afundamento ou ondulação no pavimento
+sexta,0,Fumaça
+sexta,1,Estacionar ou parar em local proibido
+sexta,0,Pista esburacada
+sexta,0,Iluminação deficiente
+sexta,1,Acumulo de areia ou detritos sobre o pavimento
+sexta,0,Acesso irregular
+sábado,192,Animais na Pista
+sábado,275,Falta de Atenção do Pedestre
+sábado,1329,Ingestão de Álcool
+sábado,1090,Velocidade Incompatível
+sábado,3620,Falta de Atenção à Condução
+sábado,1470,Desobediência às normas de trânsito pelo condutor
+sábado,335,Condutor Dormindo
+sábado,268,Pista Escorregadia
+sábado,80,Mal Súbito
+sábado,127,Avarias e/ou desgaste excessivo no pneu
+sábado,446,Não guardar distância de segurança
+sábado,33,Deficiência ou não Acionamento do Sistema de Iluminação/Sinalização do Veículo
+sábado,87,Ingestão de álcool e/ou substâncias psicoativas pelo pedestre
+sábado,535,Defeito Mecânico no Veículo
+sábado,189,Ultrapassagem Indevida
+sábado,142,Defeito na Via
+sábado,20,Ingestão de Substâncias Psicoativas
+sábado,38,Sinalização da via insuficiente ou inadequada
+sábado,78,Objeto estático sobre o leito carroçável
+sábado,63,Agressão Externa
+sábado,34,Fenômenos da Natureza
+sábado,75,Restrição de Visibilidade
+sábado,60,Desobediência às normas de trânsito pelo pedestre
+sábado,50,Carga excessiva e/ou mal acondicionada
+sábado,4,Ausência de reação do condutor
+sábado,1,Falta de acostamento
+sábado,2,Manobra de mudança de faixa
+sábado,0,Pedestre andava na pista
+sábado,0,Ingestão de álcool ou de substâncias psicoativas pelo pedestre
+sábado,1,Desrespeitar a preferência no cruzamento
+sábado,2,Reação tardia ou ineficiente do condutor
+sábado,1,Transitar na contramão
+sábado,1,Mal súbito do condutor
+sábado,1,Ingestão de álcool pelo condutor
+sábado,0,Acumulo de água sobre o pavimento
+sábado,3,Conversão proibida
+sábado,5,Condutor deixou de manter distância do veículo da frente
+sábado,2,Acessar a via sem observar a presença dos outros veículos
+sábado,1,Entrada inopinada do pedestre
+sábado,0,Acumulo de óleo sobre o pavimento
+sábado,0,Ausência de sinalização
+sábado,1,Transitar no acostamento
+sábado,0,Trafegar com motocicleta (ou similar) entre as faixas
+sábado,0,Demais falhas mecânicas ou elétricas
+sábado,0,Condutor desrespeitou a iluminação vermelha do semáforo
+sábado,0,Demais falhas na via
+sábado,0,Pedestre cruzava a pista fora da faixa
+sábado,0,Chuva
+sábado,1,Frear bruscamente
+sábado,0,Condutor usando celular
+sábado,0,Acostamento em desnível
+sábado,0,Afundamento ou ondulação no pavimento
+sábado,0,Fumaça
+sábado,0,Estacionar ou parar em local proibido
+sábado,0,Pista esburacada
+sábado,0,Iluminação deficiente
+sábado,0,Acumulo de areia ou detritos sobre o pavimento
+sábado,1,Acesso irregular
+domingo,206,Animais na Pista
+domingo,227,Falta de Atenção do Pedestre
+domingo,1583,Ingestão de Álcool
+domingo,1093,Velocidade Incompatível
+domingo,3344,Falta de Atenção à Condução
+domingo,1274,Desobediência às normas de trânsito pelo condutor
+domingo,392,Condutor Dormindo
+domingo,300,Pista Escorregadia
+domingo,86,Mal Súbito
+domingo,144,Avarias e/ou desgaste excessivo no pneu
+domingo,421,Não guardar distância de segurança
+domingo,30,Deficiência ou não Acionamento do Sistema de Iluminação/Sinalização do Veículo
+domingo,83,Ingestão de álcool e/ou substâncias psicoativas pelo pedestre
+domingo,522,Defeito Mecânico no Veículo
+domingo,188,Ultrapassagem Indevida
+domingo,155,Defeito na Via
+domingo,25,Ingestão de Substâncias Psicoativas
+domingo,36,Sinalização da via insuficiente ou inadequada
+domingo,36,Objeto estático sobre o leito carroçável
+domingo,49,Agressão Externa
+domingo,25,Fenômenos da Natureza
+domingo,76,Restrição de Visibilidade
+domingo,64,Desobediência às normas de trânsito pelo pedestre
+domingo,43,Carga excessiva e/ou mal acondicionada
+domingo,1,Ausência de reação do condutor
+domingo,0,Falta de acostamento
+domingo,2,Manobra de mudança de faixa
+domingo,1,Pedestre andava na pista
+domingo,0,Ingestão de álcool ou de substâncias psicoativas pelo pedestre
+domingo,1,Desrespeitar a preferência no cruzamento
+domingo,2,Reação tardia ou ineficiente do condutor
+domingo,0,Transitar na contramão
+domingo,0,Mal súbito do condutor
+domingo,0,Ingestão de álcool pelo condutor
+domingo,0,Acumulo de água sobre o pavimento
+domingo,0,Conversão proibida
+domingo,1,Condutor deixou de manter distância do veículo da frente
+domingo,0,Acessar a via sem observar a presença dos outros veículos
+domingo,0,Entrada inopinada do pedestre
+domingo,0,Acumulo de óleo sobre o pavimento
+domingo,0,Ausência de sinalização
+domingo,1,Transitar no acostamento
+domingo,0,Trafegar com motocicleta (ou similar) entre as faixas
+domingo,3,Demais falhas mecânicas ou elétricas
+domingo,0,Condutor desrespeitou a iluminação vermelha do semáforo
+domingo,0,Demais falhas na via
+domingo,0,Pedestre cruzava a pista fora da faixa
+domingo,0,Chuva
+domingo,0,Frear bruscamente
+domingo,1,Condutor usando celular
+domingo,0,Acostamento em desnível
+domingo,0,Afundamento ou ondulação no pavimento
+domingo,1,Fumaça
+domingo,0,Estacionar ou parar em local proibido
+domingo,0,Pista esburacada
+domingo,0,Iluminação deficiente
+domingo,0,Acumulo de areia ou detritos sobre o pavimento
+domingo,0,Acesso irregular
